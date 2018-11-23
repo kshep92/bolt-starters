@@ -6,6 +6,9 @@ import com.boltframework.utils.httpclient.HttpRequest;
 import org.junit.Test;
 import static org.junit.Assert.*;
 
+/**
+ * A simple test class
+ */
 public class MyAppTest {
 
   @SuppressWarnings("WeakerAccess")
